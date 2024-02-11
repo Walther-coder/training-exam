@@ -1,0 +1,10 @@
+Экзамен:
+Пропописать команду npm install -g degit
+1. npx degit manGo0407/Wraith-for-exam.git --force npx degit [user]/[repoName] --force
+2.npm i
+3.Создать файл .env закинуть туда все из файла .env_example
+4. создать папку сидов npx sequelize seed:generate --name Seed
+5. npm run initdb
+6.npm run dev
+7.В gitignore поменять session на sessions(Для Ромы)
+
